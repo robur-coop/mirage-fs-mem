@@ -6,10 +6,10 @@ authors: [
   "Stefanie Schirmer @linse"
   "Hannes Mehnert"
 ]
-homepage: "https://github.com/roburio/mirage-fs-mem"
-doc: "https://roburio.github.io/mirage-fs-mem/"
-bug-reports: "https://github.com/roburio/mirage-fs-mem/issues"
-dev-repo: "git+https://github.com/roburio/mirage-fs-mem.git"
+homepage: "https://github.com/robur-coop/mirage-fs-mem"
+doc: "https://robur-coop.github.io/mirage-fs-mem/"
+bug-reports: "https://github.com/robur-coop/mirage-fs-mem/issues"
+dev-repo: "git+https://github.com/robur-coop/mirage-fs-mem.git"
 tags: [ "org:mirage" "org:robur" ]
 license: "ISC"
 
